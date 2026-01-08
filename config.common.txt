@@ -3,3 +3,4 @@ hi i am a feature common file
 Now i am in feature-2
 changes in feature-2
 changes in feature-2 again
+I am now in feature-3
