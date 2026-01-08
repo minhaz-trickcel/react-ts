@@ -4,3 +4,7 @@ Now i am in feature-2
 changes in feature-2
 changes in feature-2 again
 I am now in feature-3
+I am now in feature-3
+hi 
+hi 
+hi
